@@ -7,48 +7,48 @@ hu_variant_B_EPI_ISL_413522 2020-01-27
 hu_variant_B.1_EPI_ISL_413602 2020-03-03
 hu_variant_A.1_EPI_ISL_417081 2020-03-02
 hu_variant_A.1_EPI_ISL_417159 2020-02-29
-hu_variant_B.1.525_MZ414722
-hu_variant_B.1.525_MZ415454
-hu_variant_B.1.525_MZ412141
-hu_variant_B.1.526_MZ414277
-hu_variant_B.1.526_MZ414280
-hu_variant_B.1.526_MZ414289
-hu_variant_B.1.617.1_MZ415508
-hu_variant_B.1.617.1_MW969754
-hu_variant_B.1.617.1_MW969755
-hu_variant_B.1.617.3_MZ359842
-hu_variant_P.2_MZ397170
-hu_variant_P.2_MZ368282
-hu_variant_P.2_MZ368285
-hu_variant_B.1.1.7_MZ414247
-hu_variant_B.1.1.7_MZ414251
-hu_variant_B.1.1.7_MZ414253
-hu_variant_B.1.351_MZ413998
-hu_variant_B.1.351_MZ401461
-hu_variant_B.1.351_MZ394580
-hu_variant_B.1.427_MZ414526
-hu_variant_B.1.427_MZ414531
-hu_variant_B.1.427_MZ414538
-hu_variant_B.1.429_MZ414410
-hu_variant_B.1.429_MZ414449
-hu_variant_B.1.429_MZ414471
-hu_variant_B.1.617.2_MZ414275
-hu_variant_B.1.617.2_MZ414367
-hu_variant_B.1.617.2_MZ414500
-hu_variant_P.1_MZ414248
-hu_variant_P.1_MZ414249
-hu_variant_P.1_MZ414259
-hu_variant_B.1_MZ414293
-hu_variant_B.1_MZ414299
-hu_variant_B.1_MZ414302
-hu_reference_genome_NC_045512.2
-Guangdong_Pangolin_1_2019
-Bat_BANAL-20-52_MZ937000.1
-Bat_BANAL-20-103_MZ937001.1
-Bat_BANAL-20-236_MZ937003.2
-RShSTT182_bat_EPI_ISL_852604
-Bat_coronavirus_RaTG13
-MP789_pangolin_MT121216.1
-hu_variant_B.1.1.159_EPI_ISL_9232040
-hu_variant_B.1.1.159_EPI_ISL_9457986
-hu_variant_B.1.1.159_EPI_ISL_9902084
+hu_variant_B.1.525_MZ414722 2021-04-20
+hu_variant_B.1.525_MZ415454 2021-05-11
+hu_variant_B.1.525_MZ412141 2021-06-01
+hu_variant_B.1.526_MZ414277 2021-06-04
+hu_variant_B.1.526_MZ414280 2021-05-28 
+hu_variant_B.1.526_MZ414289 2021-04-29
+hu_variant_B.1.617.1_MZ415508 2021-05-10
+hu_variant_B.1.617.1_MW969754 2021-03-23
+hu_variant_B.1.617.1_MW969755 2021-03-23
+hu_variant_B.1.617.3_MZ359842 2021-03-20
+hu_variant_P.2_MZ397170 2021-03-03
+hu_variant_P.2_MZ368282 2021-03-26
+hu_variant_P.2_MZ368285 2021-03-26
+hu_variant_B.1.1.7_MZ414247 2021-03-31
+hu_variant_B.1.1.7_MZ414251 2021-04-01
+hu_variant_B.1.1.7_MZ414253 2021-03-29
+hu_variant_B.1.351_MZ413998 2021-04-11
+hu_variant_B.1.351_MZ401461 2021-05-27
+hu_variant_B.1.351_MZ394580 2021-04-01
+hu_variant_B.1.427_MZ414526 2021-03-30
+hu_variant_B.1.427_MZ414531 2021-03-31
+hu_variant_B.1.427_MZ414538 2021-04-01
+hu_variant_B.1.429_MZ414410 2021-03-31
+hu_variant_B.1.429_MZ414449 2021-03-31
+hu_variant_B.1.429_MZ414471 2021-03-31
+hu_variant_B.1.617.2_MZ414275 2021-06-01
+hu_variant_B.1.617.2_MZ414367 2021-05-21
+hu_variant_B.1.617.2_MZ414500 2021-03-31
+hu_variant_P.1_MZ414248 2021-03-31
+hu_variant_P.1_MZ414249 2021-03-30
+hu_variant_P.1_MZ414259 2021-04-15
+hu_variant_B.1_MZ414293 2020-09-01
+hu_variant_B.1_MZ414299 2020-09-02
+hu_variant_B.1_MZ414302 2020-09-02
+hu_reference_genome_NC_045512.2 2019-12-31
+Guangdong_Pangolin_1_2019 2019
+Bat_BANAL-20-52_MZ937000.1 2020-07-05
+Bat_BANAL-20-103_MZ937001.1 2020-07-07
+Bat_BANAL-20-236_MZ937003.2 2020-07-10
+RShSTT182_bat_EPI_ISL_852604 2010-12-06
+Bat_coronavirus_RaTG13 2013-07-24
+MP789_pangolin_MT121216.1 2019-03-29
+hu_variant_B.1.1.159_EPI_ISL_9232040 2021-12-31
+hu_variant_B.1.1.159_EPI_ISL_9457986 2021-12-08
+hu_variant_B.1.1.159_EPI_ISL_9902084 2022-01-01
